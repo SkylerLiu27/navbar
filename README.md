@@ -14,5 +14,7 @@ to click the li tag, it add the underline and it's color change to black
 Install
 
 install maven environment
+
 Run "mvn clean package" under project path
+
 java -jar navbar-master.jar
